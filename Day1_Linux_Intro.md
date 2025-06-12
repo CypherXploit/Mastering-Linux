@@ -1,4 +1,4 @@
-## Day 1 – Introduction to Linux & Basic Navigation
+## 📘 Day 1 – Intro to Linux & Shell Navigation
 
 ### 🧠 Key Concepts:
 - Linux is an open-source OS used for control, security, and flexibility.
